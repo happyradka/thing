@@ -1,0 +1,86 @@
+body {
+    background: #fff;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 18px;
+  }
+
+  .content {
+    display: block;
+    margin: 0 auto;
+    max-width: 720px;
+    width: 100%;
+  }
+
+  footer {
+    padding: 100px 0;
+  }
+
+  .zanr {
+    font-size: 28px;
+    font-style: italic;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  p {
+    color: #000;
+    line-height: 1.8;
+    font-size: 21px;
+    padding: 0;
+    margin-bottom: 0;
+  }
+
+  blockquote {
+    margin-left: 20px;
+    padding: 1em;
+    font-style: italic;
+    border-radius: 8px;
+    font-size: 38px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #333!important;
+  }
+
+  h1,
+  h2 {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    color: #000;
+    margin: 2em 1em 1em 1em;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+  }
+
+  h1 {
+    letter-spacing: 2px;
+    font-size: 64px;
+    line-height: 1.6;
+    background: yellow;
+    padding: 20px 0;
+    border-radius: 50%;
+    text-decoration-color: black;
+  }
+
+  h2 {
+    letter-spacing: 2px;
+    font-size: 38px;
+    color: #f44336;
+    line-height: 1.2;
+    text-decoration-color: yellow;
+  }
+
+  #pytel h2 {
+    color: #00b100;
+    text-decoration-color: #ff7346;
+  }
+
+  #soutez h2 {
+    color: blue;
+    text-decoration-color: pink;
+  }
